@@ -15,14 +15,26 @@ Deneyimizde kullandığımız malzemeler :
 
   Deneyimiz için öncelikle kuru bir t-shirt aldık ve masaya yatırdık. 
   Ve kuru halinin fotoğraflarını çektik. https://i.hizliresim.com/LbP9lG.jpg
+  
   Sonra şırıngaya su  doldurarak t-shirt' ü ıslatmaya başladık.
   Sonrasında ıslak t-shirt ' ün de fotoğraflarını çektik. https://i.hizliresim.com/dOjYA7.jpg
+  
   Ardından iki fotoğraf arasındaki farkları inceledik.
   
 # Bulgular (Results)
 
 T-shirt ün ıslandıktan sonra renginin ciddi anlamda koyulaştığının farkına vardık.
 Yani insanlar giyerken de üzerlerindeki terlerin nasıl belirgin olduğunu bir kere daha anlamış olduk.
+
+KAYNAKÇALAR
+
+http://bilimseli.com/islaksa-daha-koyu/
+
+http://archive.iypt.org/solutions/
+
+https://van.physics.illinois.edu/qa/listing.php?id=21080
+
+https://www.victoria.ac.nz/scps/about/staff/pdf/darkerwhenwet.pdf
 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
